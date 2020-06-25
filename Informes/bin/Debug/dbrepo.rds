@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dbrepo">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-V4A3I9H\SQLEXPRESS;Initial Catalog=ReporTest</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>5771bb5b-0942-4c25-85e0-a62ed7d3370d</DataSourceID>
+</RptDataSource>
